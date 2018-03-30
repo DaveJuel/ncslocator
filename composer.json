@@ -1,0 +1,21 @@
+{
+     "name": "ncslocator",
+     "version": "0.0.1",
+     "description":"Nearest service locator",
+     "authors": [
+        {
+            "name": "David NIWEWE",
+            "email": "davejuelz@gmail.com",
+            "homepage": "https://www.ncslocator.herokuapp.com",
+            "role": "Developer"
+        }
+    ],
+  "require": {   
+    "ext-mysql": "*", 
+    "ext-gettext": "*",
+    "ext-mbstring":"*"
+  },  
+   "require-dev": {
+      "heroku/heroku-buildpack-php": "*"
+   }
+}
