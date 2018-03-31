@@ -1,4 +1,4 @@
 <div class="pull-right">
-          NCSLocator - copyright <?php echo date("Y");?>
+          Odelima - copyright <?php echo date("Y");?>
         </div>
         <div class="clearfix"></div>

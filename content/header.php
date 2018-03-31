@@ -1,5 +1,5 @@
 <div class="navbar nav_title" style="border: 0;">
-            <a href="home.php" class="site_title"><i class="fa fa-map-pin"></i> <span>NCSLocater</span></a>
+            <a href="home.php" class="site_title"><i class="fa fa-map-pin"></i> <span>Odelima</span></a>
           </div>
           <div class="clearfix"></div>
 

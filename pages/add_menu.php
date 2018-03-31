@@ -1,7 +1,7 @@
 <?php require '../includes/classes.php'; ?>
 <?php $title="NCSLocator |Add menu" ?>
 <?php ob_start(); ?>
-<h1>Add new menu</h1>
+<h1>Add new product type</h1>
 <!--Adding Menu form-->
 <div class="col-md-8">
 	<form role="form" onsubmit="return false">

@@ -1,10 +1,10 @@
 # README #
 
-This file is to instruct you installing and successfully running ncslocator.
+This file is to instruct you installing and successfully running odelima.
 
 ### What is this repository for? ###
 
-* ncslocator is an app to help you localize the nearest and cheapest service near you.
+* odelima is an app to help you localize the nearest and cheapest service near you and have it delivered where you are.
 * Version 0.0.1 beta
 
 ### INSTALLATION PREREQUISITES ###
@@ -18,13 +18,13 @@ After cloning this project to your desired directory[Windows: C:~/xampp/htdocs ,
   
 * Configure the database  
 -> In DB management app (eg:phpmyadmin, workbench,...), create a database.   
--> Import the database(smellit.sql) from ncslocator root folder, to your newly created database.  
+-> Import the database(smellit.sql) from odelima root folder, to your newly created database.  
 -> Go into ~/addax/admin/includes and open file 'config.php' change your local connection values respective to your settings.
 -> Change to database connection respective to your mysql configurations on line 9.  
 
 * Run the application  
 After finishing the steps above, you will need to run the app on your local machine.  
--> Go into your browser and type _localhost/ncslocator_.  
+-> Go into your browser and type _localhost/odelima_.  
 -> If all was done successfully, you will find a login page.   
 -> Use admin as username and test as password.  
   

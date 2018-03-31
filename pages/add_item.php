@@ -1,7 +1,7 @@
 <?php require '../includes/classes.php'; ?>
 <?php $title="NCSLocator |Add item" ?>
 <?php ob_start(); ?>
-<h1>Add new item</h1>
+<h1>Add new product</h1>
 <!--Adding Item form-->
 <div class="col-md-8">
 	<form role="form" onsubmit="return false">
@@ -19,7 +19,7 @@
 		</div>		
 		<div class="form-group">
 			<div class="input-group">
-				<span class="input-group-addon">Menu</span>				
+				<span class="input-group-addon">Product type</span>				
 				<select id="add_item_menu" class="form-control">
 					<option value="0">None</option>
 				</select>

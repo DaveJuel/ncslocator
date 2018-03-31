@@ -14,9 +14,9 @@
                     <?php
 					  }
                     ?>
-                    <li><a href="add_menu.php">Menu</a>
+                    <li><a href="add_menu.php">Product type</a>
                     </li>
-                    <li><a href="add_item.php">Item</a>
+                    <li><a href="add_item.php">Product</a>
                     </li>
                     <li><a href="add_user.php">User</a>
                     </li>                    
@@ -33,9 +33,9 @@
                     <?php
 					  }
                     ?>
-                    <li><a href="view_menu.php">Menu</a>
+                    <li><a href="view_menu.php">Product type</a>
                     </li>
-                    <li><a href="view_item.php">Item</a>
+                    <li><a href="view_item.php">Product</a>
                     </li>
                     <li><a href="view_user.php">User</a>
                     </li>                    
